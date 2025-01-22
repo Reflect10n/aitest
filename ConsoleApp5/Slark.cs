@@ -25,7 +25,7 @@ namespace ConsoleApp5
             AttackDamage += 1;
         }
 
-        public override string Name { get; set; }
+        public override string Name { get; protected set; }
         public override double MoveSpeed { get; set; }
         public override double AttackDamage { get; set; }
         public override double Armor { get; set; }
