@@ -8,6 +8,13 @@ namespace ConsoleApp5
 {
     internal class Pudge : Hero
     {
+        public override double MoveSpeed { get; set; }
+        public override double AttackDamage { get; set; }
+        public override double Armor { get; set; }
+        public override double AttackSpeed { get; set; }
+        public override double HealthPoint { get; set; }
+        public override double ManaPoint { get; set; }
+
         public Pudge()
         {
             Name = "Pudge";
@@ -18,13 +25,5 @@ namespace ConsoleApp5
             HealthPoint = 600;
             ManaPoint = 200;
         }
-
-        public override string Name { get; set; }
-        public override double MoveSpeed { get; set; }
-        public override double AttackDamage { get; set; }
-        public override double Armor { get; set; }
-        public override double AttackSpeed { get; set; }
-        public override double HealthPoint { get; set; }
-        public override double ManaPoint { get; set; }
     }
 }

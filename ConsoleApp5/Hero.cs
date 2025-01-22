@@ -8,20 +8,14 @@ namespace ConsoleApp5
 {
     abstract class Hero
     {
-        public abstract string Name { get; set; }
+        public string Name { get; protected set; }
         public abstract double MoveSpeed { get; set; }
         public abstract double AttackDamage { get; set; }
         public abstract double Armor { get; set; }
         public abstract double AttackSpeed { get; set; }
         public virtual int ViewDistance { get; set; } = 1800;
-
-
         public abstract double HealthPoint { get; set; }
-
-
         public abstract double ManaPoint { get; set; }
-
-
         public double TimeToNextAttack { get; private set; }
 
         public bool CanAttack(double currentTime) => currentTime >= TimeToNextAttack;

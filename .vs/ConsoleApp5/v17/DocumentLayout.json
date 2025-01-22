@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\consoleapp5\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\consoleapp5\\pudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\consoleapp5\\slark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\slark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\muslimov_bi\\source\\repos\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\consoleapp5\\pudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\pudge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\muslimov_bi\\source\\repos\\consoleapp5\\consoleapp5\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28F19C1-A006-4F86-A534-35C5778A984F}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Hero.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Hero.cs",
               "ToolTip": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Hero.cs",
               "RelativeToolTip": "ConsoleApp5\\Hero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:02:15.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Slark.cs",
               "DocumentMoniker": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Slark.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Slark.cs",
               "ToolTip": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Slark.cs",
               "RelativeToolTip": "ConsoleApp5\\Slark.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:25:10.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Pudge.cs",
               "DocumentMoniker": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pudge.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Pudge.cs",
               "ToolTip": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Pudge.cs",
               "RelativeToolTip": "ConsoleApp5\\Pudge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:22:09.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
               "ToolTip": "C:\\Users\\Muslimov_BI\\source\\repos\\ConsoleApp5\\ConsoleApp5\\Program.cs",
               "RelativeToolTip": "ConsoleApp5\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA1wBIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T05:08:47.832Z",
               "EditorCaption": ""

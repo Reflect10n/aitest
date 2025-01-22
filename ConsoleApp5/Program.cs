@@ -32,11 +32,11 @@ namespace ConsoleApp5
                 }
 
                 if (attacksOccurred)
-{
+                {
                     var hero1IsAlive = !hero1.IsDead();
                     var hero2IsAlive = !hero2.IsDead();
 
-                    if(hero1IsAlive &&hero2IsAlive)
+                    if (hero1IsAlive && hero2IsAlive)
                         continue;
 
                     if (!hero1IsAlive && !hero2IsAlive)
@@ -47,7 +47,8 @@ namespace ConsoleApp5
 
                     var winner = hero1IsAlive == true ? hero1 : hero2;
 
-                    Console.WriteLine($"{winner.Name} wins!"); return;
+                    Console.WriteLine($"{winner.Name} wins!"); 
+                    return;
                 }
             }
         }

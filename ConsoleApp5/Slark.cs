@@ -8,6 +8,13 @@ namespace ConsoleApp5
 {
     internal class Slark: Hero
     {
+        public override double MoveSpeed { get; set; }
+        public override double AttackDamage { get; set; }
+        public override double Armor { get; set; }
+        public override double AttackSpeed { get; set; }
+        public override double HealthPoint { get; set; }
+        public override double ManaPoint { get; set; }
+
         public Slark()
         {
             Name = "Slark";
@@ -24,13 +31,5 @@ namespace ConsoleApp5
             base.DoDamage(hero);
             AttackDamage += 1;
         }
-
-        public override string Name { get; protected set; }
-        public override double MoveSpeed { get; set; }
-        public override double AttackDamage { get; set; }
-        public override double Armor { get; set; }
-        public override double AttackSpeed { get; set; }
-        public override double HealthPoint { get; set; }
-        public override double ManaPoint { get; set; }
     }
 }
